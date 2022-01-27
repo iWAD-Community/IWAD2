@@ -2,8 +2,8 @@
 
 $dbServername = "localhost";
 $dbUsername = "root";
-$dbPassword = "YourPassword";
-$dbName = "iwaddatabase";
+$dbPassword = "iwad@21W";
+$dbName = "iwaddatabase2";
 
 $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
 
