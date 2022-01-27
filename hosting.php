@@ -211,7 +211,7 @@ All plans come with a standard 30-day money-back guarantee.    </p>
                 <form action="">
                     <div class="send__direction">
                         <input type="text" placeholder="Email address" class="send__input">
-                        <a href="#" class="button">Send</a>
+                        <a href="mailto:iwad.services21@gmail.com" class="button">Send</a>
                     </div>
                 </form>
             </div>
