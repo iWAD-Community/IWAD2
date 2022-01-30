@@ -58,7 +58,7 @@
   <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> welcome to iwad store online Shop </h2>
+            <h1 class="section-title-center"> Welcome To Iwad Store Online Shop </h1>
             <p class="share__description">iWAD Store , is an online store that is reliable and offers quality services to its customers.
                   We promise we won't disapoint you. At the moment we can not do online payments ,you will have to contact one of our agents <a href="Contacts.php" class="nav__link">"Contact Us"</a> on how your product will be delivered and paid for .
                   Thank you and we hope you will enjoy the tour in our store.</p>
