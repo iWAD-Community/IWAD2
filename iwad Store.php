@@ -54,24 +54,22 @@
             </nav>
         </header>
 
-               <!-- welcome section -->
-               <div class = "head-body container">
-                <div class = "head-body-content">
-                  <h1 class = "head-title">
-                    welcome to iwad store online Shop
-                  </h1>
-                  <p class = "text">
-                  iWAD Store , is an online store that is reliable and offers quality services to its customers.
+        <!--========== SHARE ==========-->
+  <section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
+        <div class="share__data">
+            <h2 class="section-title-center"> welcome to iwad store online Shop </h2>
+            <p class="share__description">iWAD Store , is an online store that is reliable and offers quality services to its customers.
                   We promise we won't disapoint you. At the moment we can not do online payments ,you will have to contact one of our agents <a href="Contacts.php" class="nav__link">"Contact Us"</a> on how your product will be delivered and paid for .
-                  Thank you and we hope you will enjoy the tour in our store. 
-                  </p>
-                 
-                </div>
+                  Thank you and we hope you will enjoy the tour in our store.</p>
           
-                <div class = "head-body-img">
-                  <img src = "./assets/img/Online.png" alt = "header image">
-                </div>
-              </div>
+        </div>
+
+        <div class="share__img">
+            <img src="./assets/img/Online.png" alt="">
+        </div>
+    </div>
+  </section>
 
          <!-- trending product -->
          <section class="decoration section bd-container" id="decoration">
