@@ -21,45 +21,8 @@
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Contacts</title>
     </head>
-    <body onload="preloader()">
-      <!-- START PRE LOADER-->  
-  <div id="preloader">
-    <div class="gify">
-
-    </div>
-  </div>
-  <style>
-    #preloader{
-    position: fixed;
-    width: 100%;
-    height: 100vh;
-    background-color: #0d0121;
-
-    background-size: cover;
-  z-index: 99999;
-  }
-  .gify{
-    background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
-    background-position: center;
-    background-attachment: fixed;
-    height: 70%;
-    width:50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top:10% ;
-  }
-
-  </style>
-  <script>
-
-    var preloadervar = document.getElementById("preloader")
-    function preloader(){
-       preloadervar.style.display = "none";
-       console.log("Display Gon");
-        
-    }
-  </script>
-
+    <body>
+      
         <!--========== SCROLL TOP ==========-->
         <a href="#" class="scrolltop" id="scroll-top">
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>
@@ -88,37 +51,30 @@
               </div>
           </nav>
       </header>
+
+      <body>
                <!-- welcome section -->
-      <!-- welcome section -->
       <div class = "head-body container">
                 <div class = "head-body-content">
-                <h2 class="section-title-center">Contact Us|   </h2><h4>What Ever it Maybe we are here |</h4> <br>
-                <H4>|Submit a Request</H4> Send a request directly to us! Typical response time: within 1 business day <H4>|Schedule a meeting</H4>Set up a meeting with us:
+                <h2 class="section-title-center">Contact Us|   </h2>
+                <h4>What Ever it Maybe we are here |</h4> <br>
+                <H4>|Submit a Request</H4> 
+                Send a request directly to us! Typical response time: within 1 business day 
+                <H4>|Schedule a meeting</H4>Set up a meeting with us:
 
-Earliest time & date <h4> |Live chat </h4>  Live chat is not available in your region yet.
+                Earliest time & date <h4> |Live chat </h4> 
+                Live chat is not available in your region yet.
 
-You can contact us via email or by calling one of the numbers below.</p>
+                You can contact us via email or by calling one of the numbers below.</p>
 
-                 
                 </div>
           
                 <div class = "head-body-img">
                   <img src = "./assets/img/pngegg (6).png" alt = "header image">
                 </div>
-                  
-
-  
-  
-
-    <body>
-      
-      
-    </body>
-
-
-
-
-
+      </div>
+                 <!-- welcome section -->
+                
    <!-- contact section -->
    <section class = "contact py-4" id = "contact">
     <div class = "container">
@@ -172,8 +128,6 @@ You can contact us via email or by calling one of the numbers below.</p>
     </div>
   </section>
   <!-- end of contact section -->
-
-       
 
         <!--========== SCROLL REVEAL ==========-->
         <script src="https://unpkg.com/scrollreveal"></script>

@@ -20,45 +20,8 @@
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>iWAD Store</title>
     </head>
-    <body style="overflow-x: hidden;" onload = "preloader()">
-  <!-- START PRE LOADER-->  
-  <div id="preloader">
-    <div class="gify">
-
-    </div>
-  </div>
-  <style>
-    #preloader{
-    position: fixed;
-    width: 100%;
-    height: 100vh;
-    background-color: #0d0121;
-
-    background-size: cover;
-  z-index: 99999;
-  }
-  .gify{
-    background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
-    background-position: center;
-    background-attachment: fixed;
-    height: 70%;
-    width:50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top:10% ;
-  }
-
-  </style>
-  <script>
-
-    var preloadervar = document.getElementById("preloader")
-    function preloader(){
-       preloadervar.style.display = "none";
-       console.log("Display Gon");
-        
-    }
-  </script>
-  <!-- end PRE LOADER-->
+    <body style="overflow-x: hidden;">
+  
 
         <!--========== SCROLL TOP ==========-->
         <a href="#" class="scrolltop" id="scroll-top">
@@ -88,6 +51,7 @@
               </div>
           </nav>
       </header>
+
                <!-- welcome section -->
                <div class = "head-body container">
                 <div class = "head-body-content">
@@ -107,10 +71,6 @@
                 </div>
               </div>
 
-  
-  
-
-</section>
          <!-- trending product -->
          <section class="decoration section bd-container" id="decoration">
                 <h2 class="section-title"> iWAD Sales</h2>
