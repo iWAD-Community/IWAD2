@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  
+	
 	<img class="wave" src="assets/img/wave.png">
 	<div class="container">
 		<div class="img">

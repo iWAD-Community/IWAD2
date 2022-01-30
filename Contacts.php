@@ -38,7 +38,7 @@
         <!--========== HEADER ==========-->
         <header class="l-header" id="header">
             <nav class="nav bd-container">
-                <a href="Contacts.php" class="nav__logo"><img src="assets/img/home.png"></a>
+                <a href="index.php" class="nav__logo"><img src="assets/img/home.png"></a>
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
                         
