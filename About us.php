@@ -52,6 +52,24 @@
                 </div>
             </nav>
         </header>
+
+<!--========== SHARE ==========-->
+<section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
+        <div class="share__data">
+            <h2 class="section-title-center"> The iWAD Custom Software Development Team | </h2>
+            <p class="share__description"><H4>team work is our number one  priority |</H4>
+
+              iWAD (iNTERNET-WEB-APPLICATION and DEVELOPMENT),will Change how you view the world through fusing ancient wisdom and modern technologies for a creative texture to life and  Empowering you with Knowledge to expand beyond your Imagination.We’re an international team of software designers, developers headquartered in Zimbabwe, Harare, specializing in custom web and mobile development.</p>
+          
+        </div>
+
+        <div class="share__img">
+            <img src="assets/img/send.png" alt="">
+        </div>
+    </div>
+</section>
+
                <!-- welcome section -->
                <div class = "head-body container">
                 <div class = "head-body-content">
