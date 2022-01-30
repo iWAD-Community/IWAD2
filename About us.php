@@ -149,7 +149,7 @@
                 <img src="assets/img/pngegg (5).png" alt="">
             </div>
         </div>
-    </se>
+    </section>
 </main>
 
 <!--========== SEND Email ==========-->

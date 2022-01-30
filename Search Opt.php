@@ -203,7 +203,7 @@ Also note, features like rich results and Knowledge Panels in the search results
                 <img src="assets/img/pngegg (5).png" alt="">
             </div>
         </div>
-    </se>
+    </section>
 </main>
 
 <!--========== SEND Email ==========-->

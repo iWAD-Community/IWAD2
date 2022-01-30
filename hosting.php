@@ -220,7 +220,7 @@ All plans come with a standard 30-day money-back guarantee.    </p>
                 <img src="assets/img/pngegg (5).png" alt="">
             </div>
         </div>
-    </se>
+    </section>
 </main>
 
 <!--========== SEND Email ==========-->
