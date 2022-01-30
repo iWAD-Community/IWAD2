@@ -69,20 +69,6 @@
         </div>
     </div>
 </section>
-
-               <!-- welcome section -->
-               <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center">The iWAD Custom Software Development Team |  </h2><h4>team work is our number one  priority |</h4>
-                 
-                iWAD (iNTERNET-WEB-APPLICATION and DEVELOPMENT),will Change how you view the world through fusing ancient wisdom and modern technologies for a creative texture to life and  Empowering you with Knowledge to expand beyond your Imagination.We’re an international team of software designers, developers headquartered in Zimbabwe, Harare, specializing in custom web and mobile development.
-                  </p>
-                 
-                </div>
-          
-                <div class = "head-body-img">
-                  <img src = "./assets/img/pngegg (6).png" alt = "header image">
-                </div>
                   
     <div class="share__data">
       <h2 class="section-title-center">iWAD’s Design team| </h2>
