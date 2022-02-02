@@ -179,7 +179,7 @@
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/ram.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/ram.png" alt="" class="accessory__img">             </a>
 
             <h3 class="accessory__title">DDR2, DDR3 ,DDR4 Ram Available</h3>
             <span class="accessory__category">Price Vary With Type and Size</span>
@@ -188,14 +188,14 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/Hard-D.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/Hard-D.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Drive</h3>
             <span class="accessory__category">Price Vary With Size</span>
             <span class="accessory__preci">$---</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/VGA.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/VGA.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">VGA Cable</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$10.00</span>
@@ -203,7 +203,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/keyboard.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/keyboard.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Laptop keyboards</h3>
             <span class="accessory__category">Price Vary with Type</span>
             <span class="accessory__preci">$--.--</span>
@@ -211,7 +211,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/screen.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/screen.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Laptop Screens</h3>
             <span class="accessory__category">Price Depending With Type</span>
             <span class="accessory__preci">$35.00 - $---</span>
@@ -220,7 +220,7 @@
 
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/motherboard.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/motherboard.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Desktop and Laptop Motherboards</h3>
             <span class="accessory__category">Prices Depend on Type of Motherboard</span>
             <span class="accessory__preci">$--.--</span>
@@ -237,7 +237,7 @@
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/cable.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/cable.png" alt="" class="accessory__img">             </a>
 
             <h3 class="accessory__title">Apple Charging cable</h3>
             <span class="accessory__category">Accessory</span>
@@ -246,14 +246,14 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/pouch.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/pouch.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Pouches</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$5.00 - $10.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/apple-earbuds.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/apple-earbuds.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Apple Earphones</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$12.00</span>
@@ -261,7 +261,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/sp.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/sp.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Screen Protector</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$5.00 - $10.00</span>
@@ -269,7 +269,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/memory.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/memory.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Memory Cards</h3>
             <span class="accessory__category">Price Vary With Size</span>
             <span class="accessory__preci">$5.00 - $---</span>
@@ -278,7 +278,7 @@
 
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/battery.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/battery.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Batteries</h3>
             <span class="accessory__category">Price Depend On Type</span>
             <span class="accessory__preci">$--.-</span>
@@ -295,7 +295,7 @@
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
 
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accessory</span>
@@ -304,14 +304,14 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$$0.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -319,7 +319,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -327,7 +327,7 @@
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accesories</span>
             <span class="accessory__preci">$0.00</span>
@@ -336,7 +336,7 @@
 
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">Gaming</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
