@@ -66,7 +66,7 @@
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/Mobile-accessories.jpg" alt = "header image">
+                  <img src = "./assets/img/Mobile-accessories.png" alt = "header image">
                 </div>
               </div>
 
@@ -82,7 +82,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/tera.jpg" alt = "feature image">
+        <img src = "assets/img/tera.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -104,7 +104,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/dellc.jpg" alt = "feature image">
+        <img src = "assets/img/dellc.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -126,7 +126,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/EX1.jpg" alt = "feature image">
+        <img src = "assets/./img/EX1.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -149,7 +149,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/ra.jpg" alt = "feature image">
+        <img src = "assets/./img/ra.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -352,20 +352,20 @@
                 <h2 class="section-title"> iWAD Sales</h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php"><img src="assets/img/comp1.png" alt="" class="decoration__img">  </a>
                     <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php"><img src="assets/img/cell2.png" alt="" class="decoration__img">  </a>
                     <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
                  
                         
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php"><img src="assets/img/access1.png" alt="" class="decoration__img">  </a>
                     <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
                  
                     </div>

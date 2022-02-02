@@ -82,7 +82,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/HP-Pavilion-G6-2.jpg" alt = "feature image">
+        <img src = "assets/img/HP-Pavilion-G6-2.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -106,7 +106,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/g4.jpg" alt = "feature image">
+        <img src = "assets/img/g4.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -131,7 +131,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/asp1.jpg" alt = "feature image">
+        <img src = "assets/./img/asp1.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -157,7 +157,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/dell-inspiron.jpg" alt = "feature image">
+        <img src = "assets/./img/dell-inspiron.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -181,7 +181,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/zed.jpg" alt = "feature image">
+        <img src = "assets/img/zed.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -234,7 +234,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/HP-255-G6-c.jpg" alt = "feature image">
+        <img src = "assets/./img/HP-255-G6-c.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -259,7 +259,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/dell.jpg" alt = "feature image">
+        <img src = "assets/./img/dell.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -293,20 +293,20 @@
                 <h2 class="section-title"> iWAD Sales</h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php"><img src="assets/img/comp1.png" alt="" class="decoration__img">  </a>
                     <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php"><img src="assets/img/cell2.png" alt="" class="decoration__img">  </a>
                     <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
                  
                         
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php"><img src="assets/img/access1.png" alt="" class="decoration__img">  </a>
                     <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
                  
                     </div>
