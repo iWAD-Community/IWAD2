@@ -210,7 +210,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/DELL-6430-6420.jpeg" alt = "feature image">
+        <img src = "assets/img/DELL-6430-6420.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
