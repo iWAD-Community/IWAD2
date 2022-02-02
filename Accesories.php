@@ -453,7 +453,10 @@
               </div>
           </div>
 
-          <p class="footer__copy"> 2021 Iwad.Net All right reserved</p>
+          <p class="footer__copy"> <?php
+                // Prints the day, date, month, year, time, AM or PM
+                echo date("Y");
+          ?> Iwad.Net All right reserved</p>
       </footer>
 
         <!--========== SCROLL REVEAL ==========-->

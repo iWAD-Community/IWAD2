@@ -13,14 +13,14 @@
 
 <body>
   
-	<img class="wave" src="assets/img/wave.png">
+	<img class="wave" src="assets/img/wave.png"></a>
 	<div class="container">
 		<div class="img">
 		<a href="/index.php"><img src="assets/img/iwad logo 5.png">  </a>
 		</div>
 		<div class="login-content">
 			<form action="includes/login.inc.php" method="post">
-				<img src="assets/img/iwad logo icon 3.png">
+      <img src="assets/img/iwad logo icon 3.png">
            		<div class="input-div one">
            		   <div class="i">
            		   		<i class="fas fa-user"></i>
