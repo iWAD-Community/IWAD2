@@ -166,8 +166,8 @@
         <div class = "title">
           <h4>On Special </h4>
           <h2>Boxed Iphone 12(128gig)</h2>
-          <p class = "item-price">Price $1400.00</p>
-          <p class = "item-price"><m style="color: red;">$1390,00<m/></p>
+          <p class = "item-price">Price $1300.00</p>
+          <p class = "item-price"><m style="color: red;">$1290,00<m/></p>
         </div>
         <p class = "text">
         5G speed. A14 Bionic, the fastest chip in a smartphone.
