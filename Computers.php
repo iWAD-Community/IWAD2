@@ -91,7 +91,7 @@
           <p class = "item-price">$250.00</p>
         </div>
         <p class = "text">
-        Hp pavilion g6 coi5
+        Hp pavilion coi5
         320gig hdd
         4gig ram
         3hrs battery
