@@ -66,7 +66,7 @@
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/mobx.jpg" alt = "header image">
+                  <img src = "./assets/img/mobx.png" alt = "header image">
                 </div>
               </div>
 
@@ -82,13 +82,13 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/iphone12black.jpg" alt = "feature image">
+        <img src = "assets/img/iPhone_13_Pro_Max.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Boxed Iphone 12(128gig)</h2>
-          <p class = "item-price">$1400.00</p>
+          <h2>Boxed Iphone 13 Pro Max(256gig)</h2>
+          <p class = "item-price">$2000.00</p>
         </div>
         <p class = "text">
         5G speed. A14 Bionic, the fastest chip in a smartphone.
@@ -104,7 +104,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/samsungs21.jpg" alt = "feature image">
+        <img src = "assets/img/samsungs21.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -126,7 +126,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/Huawei-P40-Lite.jpg" alt = "feature image">
+        <img src = "assets/./img/Huawei-P40-Lite.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -168,7 +168,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/j4.jpg" alt = "feature image">
+        <img src = "assets/img/j4.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -189,7 +189,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/iPhone7.jpg" alt = "feature image">
+        <img src = "assets/img/iPhone7.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -233,7 +233,7 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/6s.jpg" alt = "feature image">
+        <img src = "assets/./img/6s.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
@@ -260,20 +260,20 @@
                 <h2 class="section-title"> iWAD Sales</h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php"><img src="assets/img/comp1.png" alt="" class="decoration__img">  </a>
                     <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php"><img src="assets/img/cell2.png" alt="" class="decoration__img">  </a>
                     <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
                  
                         
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php"><img src="assets/img/access1.png" alt="" class="decoration__img">  </a>
                     <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
                  
                     </div>
