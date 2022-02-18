@@ -91,8 +91,8 @@
           <p class = "item-price">$2000.00</p>
         </div>
         <p class = "text">
-        5G speed. A14 Bionic, the fastest chip in a smartphone.
-        An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.
+        iPhone 13 Pro and 13 Pro Max. Huge camera upgrades. New OLED display with ProMotion.
+         Fastest smartphone chip ever. Breakthrough battery life.
          </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -104,17 +104,18 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/samsungs21.png" alt = "feature image">
+        <img src = "assets/img/iphone12pro.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
           <h2>
-           Samsung Galaxy S21 Ultra 128GB 5G Smartphone</h2>
+          Boxed Iphone 12 Pro Max(256gig)</h2>
           <p class = "item-price">$1500.00</p>
         </div>
         <p class = "text">
-        Create professional quality content with the pro-grade camera system of the Samsung Galaxy S21 Ultra STORAGE 5G Smartphone. The quad camera system
+        It comes with a 6GB RAM and three storage variants 128GB, 256GB and 512GB. 
+        The rear camera consists of a 12MP (wide) + 12MP (telephoto) 5x optical zoom + 12MP (ultrawide) sensors and a LiDAR scanner for night mode.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -126,16 +127,17 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/Huawei-P40-Lite.png" alt = "feature image">
+        <img src = "assets/./img/iphone-13.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>P40 lite (128GB)</h2>
-          <p class = "item-price">$280.00</p>
+          <h2>Boxed Iphone 13</h2>
+          <p class = "item-price">$1300.00</p>
         </div>
         <p class = "text">
-        Huawei P40 lite 5G Android smartphone. Announced May 2020. Features 6.5″ display, Kirin 820 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.
+        The iPhone 13 and 13 Mini received a number of significant upgrades including new cameras, a bigger battery, more storage and a brighter screen.
+        The iPhone 13 is a delightful upgrade to last year's already wonderful iPhone 12 family
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -147,16 +149,17 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/appleX.png" alt = "feature image">
+        <img src = "assets/./img/Apple_iPhone-11-Pro.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Used Apple iPhone X, Silver, 256GB,NO FACE ID </h2>
-          <p class = "item-price">$380.00</p>
+          <h2>Boxed Iphone 11 Pro Max</h2>
+          <p class = "item-price">$1000.00</p>
         </div>
         <p class = "text">
-        Apple iPhone X · Display 5.80-inch (1125x2436) · Processor Apple A11 Bionic · Front Camera 7MP · Rear Camera 12MP + 12MP · RAM 3GB
+        iPhone 11 Pro Max shoots amazing videos and photos with the Ultra Wide, Wide, and Telephoto cameras.
+         Capture your best low-light photos with Night mode
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -168,16 +171,19 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/j4.png" alt = "feature image">
+        <img src = "assets/img/iphone11.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Used Samsung j4 core ,16gig</h2>
-          <p class = "item-price">$100.00</p>
+          <h2>Boxed Iphone 11(128gig)</h2>
+          <p class = "item-price">$750.00</p>
         </div>
         <p class = "text">
-        Samsung Galaxy J4 Core · Released 2018, November · 177g, 7.9mm thickness · Android 8.1 Oreo · 16GB storage, microSDXC
+        6.1-inch (15.4 cm diagonal) Liquid Retina HD LCD display
+        Water and dust resistant (2 meters for up to 30 minutes, IP68)
+        Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode,
+        Portrait mode, and 4K video up to 60fps
          </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -189,16 +195,18 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/iPhone7.png" alt = "feature image">
+        <img src = "assets/img/iphonexr.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Used Apple iPhone 7 (32GB) </h2>
-          <p class = "item-price">$200.00</p>
+          <h2>Boxed Iphone XR(128gig) </h2>
+          <p class = "item-price">$510.00</p>
         </div>
         <p class = "text">
-        Apple iPhone 7 Plus smartphone. Announced Sep 2016. Features 5.5″ display, Apple A10 Fusion chipset, Dual: 12 MP
+        The less expensive iPhone XR delivers most iPhone X and XS features,
+         including an excellent big screen in a comfortable body, fast performance,
+          Face ID and wireless charging, and a camera that's mostly as good as the iPhone XS.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -210,18 +218,17 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/ipad_mini.png" alt = "feature image">
+        <img src = "assets/./img/iphone-xs-max.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>iPad Mini 1 32GB WiFi + Cellular 3G</h2>
-          <p class = "item-price">$70.00</p>
+          <h2>Boxed Iphone XS Max(256gig)</h2>
+          <p class = "item-price">$700.00</p>
         </div>
         <p class = "text">
-        Apple iPad mini Wi-Fi + Cellular tablet. Announced Oct 2012. Features 7.9″ display, Apple A5 chipset, 5 MP primary camera, 1.2 MP front camera
-        <br>
-        Need Touch Replacement , it has internal cloud
+        Apple iPhone XS Max · Released 2018, September 21 · 208g,
+         7.7mm thickness · iOS 12, up to iOS 15.3 · 64GB/256GB/512GB storage
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -238,11 +245,13 @@
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Used APPLE-iPhone 6S - 16GB</h2>
-          <p class = "item-price">$140.00</p>
+          <h2>Boxed Iphone X(256gig)</h2>
+          <p class = "item-price">$450.00</p>
         </div>
         <p class = "text">
-        Apple iPhone 6 · Released 2014, September 19 · 129g, 6.9mm thickness · iOS 8, up to iOS 12.4. 6 · 16GB
+        12MP + 12MP | 7MP Front Camera
+        A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor Processor
+        iOS 13 Compatible
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -251,6 +260,73 @@
       </div>
     </div>
     <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/iphone-8-plus.png" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Boxed Iphone 8 Plus</h2>
+          <p class = "item-price">$370.00</p>
+        </div>
+        <p class = "text">
+        Apple iPhone 8 Plus · Released 2017, September 22 · 202g, 7.5mm thickness · iOS 11,
+         up to iOS 15.3 · 64GB/128GB/256GB storage
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/Apple-iPhone-7.png" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Boxed Iphone 7 Plus</h2>
+          <p class = "item-price">$300.00</p>
+        </div>
+        <p class = "text">
+        Apple iPhone 7 Plus · Released 2016, September 16 · 188g,
+         7.3mm thickness · iOS 10.0.1, up to iOS 15.3 · 32GB/128GB/256GB storage
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/iphone8.png" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Boxed Iphone 8</h2>
+          <p class = "item-price">$300.00</p>
+        </div>
+        <p class = "text">
+        Apple iPhone 8 · Released 2017, September 22 · 148g,
+        7.3mm thickness · iOS 11, up to iOS 15.3 · 64GB/128GB/256GB storage
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    
   </div>
 </section>
 <!-- end of featured product -->

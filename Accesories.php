@@ -290,6 +290,7 @@
 <div class = "underline"></div>
 
 <!--========== ACCESSORIES ==========-->
+<!--
 <section class="accessory section bd-container" id="accessory">
     <h2 class="section-title">Gaming  <br> Accessories</h2>
 
@@ -346,7 +347,7 @@
 </section>
 
 <div class = "underline"></div>
-
+-->
 <!-- trending product -->
 <section class="decoration section bd-container" id="decoration">
                 <h2 class="section-title"> iWAD Sales</h2>
