@@ -188,16 +188,13 @@
       <div class = "featured-item-content">
         <div class = "title">
           <h4>On Special </h4>
-          <h2>Hp 450 g4 coi7 gaming</h2>
-          <p class = "item-price">Price $550.00</p>
-          <p class = "item-price"><m style="color: red;">$540,00<m/></p>
+          <h2>Apple Watch Series 6</h2>
+          <p class = "item-price">Price $670.00</p>
+          <p class = "item-price"><m style="color: red;">$650.00<m/></p>
         </div>
         <p class = "text">
-        7th generation
-        1 terabyte hdd
-        8gig ram ddr4
-        2gig dedicated nvidia GeForce graphics card
-        4hrs battery
+        Series 6
+        44mm
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
