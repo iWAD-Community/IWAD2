@@ -188,16 +188,13 @@
       <div class = "featured-item-content">
         <div class = "title">
           <h4>On Special </h4>
-          <h2>Hp 450 g4 coi7 gaming</h2>
-          <p class = "item-price">Price $550.00</p>
-          <p class = "item-price"><m style="color: red;">$540,00<m/></p>
+          <h2>Apple Watch Series 6</h2>
+          <p class = "item-price">Price $670.00</p>
+          <p class = "item-price"><m style="color: red;">$650.00<m/></p>
         </div>
         <p class = "text">
-        7th generation
-        1 terabyte hdd
-        8gig ram ddr4
-        2gig dedicated nvidia GeForce graphics card
-        4hrs battery
+        Series 6
+        44mm
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -330,7 +327,7 @@
                   <a href="#" class="footer__social"><i class='bx bxl-instagram-alt'></i></a>
                   <ul>
                     <li><img class="contact_icon"; src="assets/img/placeholder.png" alt="icon"><a href="https://maps.app.goo.gl/DKGBg4174ws2CJ4a8" class="footer__link">No3 Radom Court 6th Street Harare</a></li>
-                    <li><img class="contact_icon"; src="assets/img/gmail.png" alt="icon"><a href="mailto:info@iwad.net" class="footer__link"> info@iwad.net</a></li>
+                    <li><img class="contact_icon"; src="assets/img/gmail.png" alt="icon"><a href="mailto:info@iwad.co.zw" class="footer__link"> info@iwad.co.zw</a></li>
                     <li><img class="contact_icon"; src="assets/img/telephone.png" alt="icon"><a href="tel:+263775051445" class="footer__link"> +263 719 051 445</a></li>
                   </ul>
               </div>
