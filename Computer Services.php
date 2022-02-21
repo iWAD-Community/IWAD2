@@ -20,15 +20,15 @@
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Computer Services</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+        </script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', 'UA-220504577-1');
-</script>
+        gtag('config', 'UA-220504577-1');
+        </script>
     </head>
     <body>
           
