@@ -289,65 +289,107 @@
 
 <div class = "underline"></div>
 
-<!--========== ACCESSORIES ==========-->
-<!--
+<!--========== Apple Watch ==========-->
+
 <section class="accessory section bd-container" id="accessory">
-    <h2 class="section-title">Gaming  <br> Accessories</h2>
+    <h2 class="section-title">Apple  <br> Watch</h2>
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+        <a href="#">                <img src="assets/img/Series1.png" alt="" class="accessory__img">             </a>
 
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+            <h3 class="accessory__title">Series 1 (38mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$180.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
         <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-        <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+        <a href="#">                <img src="assets/img/Series2.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 2(42mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$250.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
         <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+        <a href="#">                <img src="assets/img/Series_1_42mm.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 1(42mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$220.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
         <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accesories</span>
-            <span class="accessory__preci">$0.00</span>
+        <a href="#">                <img src="assets/img/Series3.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 3(42mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$300.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+        
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/Series4.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 4(44mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$400.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/Series-5.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 5(40mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$400.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/Series_6 .png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 6(40mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$500.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+        
+        
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/series6.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 6(44mm)</h3>
+            <span class="accessory__category">Used</span>
+            <span class="accessory__preci">$550.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/series3-.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 3(42mm)</h3>
+            <span class="accessory__category">Brandnew</span>
+            <span class="accessory__preci">$400.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="#">                <img src="assets/img/Series 5.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 5(44mm)</h3>
+            <span class="accessory__category">Brandnew</span>
+            <span class="accessory__preci">$550.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
 
         <div class="accessory__content">
-        <a href="#">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Gaming</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+        <a href="#">                <img src="assets/img/Series_6-.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Series 6(44mm)</h3>
+            <span class="accessory__category">Brandnew</span>
+            <span class="accessory__preci">$650.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
     </div>
 </section>
 
 <div class = "underline"></div>
--->
+
 <!-- trending product -->
 <section class="decoration section bd-container" id="decoration">
                 <h2 class="section-title"> iWAD Sales</h2>
