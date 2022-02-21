@@ -19,6 +19,16 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>About page</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+        </script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-220504577-1');
+        </script>
     </head>
     <body >
 
@@ -57,10 +67,13 @@
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> The iWAD Custom Software Development Team | </h2>
-            <p class="share__description"><H4>team work is our number one  priority |</H4>
+            <h2 class="section-title-center">The iWAD Custom Software Development Team</h2>
+            <p class="share__description"><H4>Team work is our number one  priority</H4>
 
-              iWAD (iNTERNET-WEB-APPLICATION and DEVELOPMENT),will Change how you view the world through fusing ancient wisdom and modern technologies for a creative texture to life and  Empowering you with Knowledge to expand beyond your Imagination.We’re an international team of software designers, developers headquartered in Zimbabwe, Harare, specializing in custom web and mobile development.</p>
+              iWAD (iNTERNET-WEB-APPLICATION and DEVELOPMENT),will Change how you view the world through 
+              fusing ancient wisdom and modern technologies for a creative texture to life and  Empowering
+               you with Knowledge to expand beyond your Imagination.We’re an international team of software
+                designers, developers headquartered in Zimbabwe, Harare, specializing in custom web and mobile development.</p>
           
         </div>
 
@@ -74,9 +87,12 @@
               <!-- welcome section -->
               <div class = "head-body container">
                 <div class = "head-body-content">
-                <h2 class="section-title-center">iWAD’s development team|  </h2>
-                 
-                provides development, implementation, and customization services for such platforms as Microsoft .NET,Phython , Java, PHP, iOS, Android, and Windows Mobile at optimal quality. Our development team has years of experience in those fields and has successfully overcome dozens of such challenges.
+                <h2 class="section-title-center">iWAD’s development team</h2>
+                 <p>
+                provides development, implementation, and customization services for
+                 such platforms as Microsoft .NET,Phython , Java, PHP, iOS, Android, 
+                 and Windows Mobile at optimal quality. Our development team has years
+                  of experience in those fields and has successfully overcome dozens of such challenges.
                   </p>
                  
                 </div>

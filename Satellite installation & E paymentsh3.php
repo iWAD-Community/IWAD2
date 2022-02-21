@@ -19,6 +19,16 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Satellite Dish</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220504577-1');
+</script>
     </head>
     <body>
   
@@ -58,17 +68,14 @@
       <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> | Satilile|
-                      </h2>
-                  </h2> </p>
-          
+            <h2 class="section-title-center">Satilile installation & Reforcusing</h2>
         </div>
       
         <div class="share__img">
-            <img src="assets/img/pngegg (21).png" alt="">
+            <img src="assets/img/Satellite.png" alt="">
         </div>
     </div>
-    <h2 class="section-title-center"> | more | </h2>
+    <h2 class="section-title-center"></h2>
             <p class="share__description"></p>
     </section>
 

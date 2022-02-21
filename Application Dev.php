@@ -19,6 +19,16 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Application Dev</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220504577-1');
+</script>
     </head>
     <body>
           
@@ -60,10 +70,13 @@
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> | App Development|
-                        Build Android and iOS apps in one go |   </h2>
-                  </h2> 
-            <p class="share__description"> Here at iWAD we are are a software development company that has immense experience in creating feature-rich and high-performing native custom applications for IOS and Android platforms.We certainly keep track of the latest technical standards and design recommendation by Apple, Huawei  and Google With expertise in native and hybrid mobile development, we connect your business with people wherever they are in the world, regardless of what device they use.</p>
+            <h2 class="section-title-center">App Development Build Android and iOS apps in one go</h2> 
+            <p class="share__description"> Here at iWAD we are are a software development company that has
+                 immense experience in creating feature-rich and high-performing native custom applications
+                  for IOS and Android platforms.We certainly keep track of the latest technical standards and
+                   design recommendation by Apple, Huawei  and Google With expertise in native and hybrid mobile
+                    development, we connect your business with people wherever they are in the world, regardless of
+                     what device they use.</p>
           
         </div>
       
@@ -71,7 +84,7 @@
             <img src="assets/img/app dev.png" alt="">
         </div>
     </div>
-    <h2 class="section-title-center"> | Custom mobile app development | </h2>
+    <h2 class="section-title-center">Custom mobile app development</h2>
             <p class="share__description">  Get a native iOS or Android app that reduces operational costs, increases customers’ lifetime value, and boosts revenue. Our mobile applications will make users love your brand.Whether you are an individual entrepreneur or  organization, our mobile app development services are designed to cover your exact requirements on time and сost-efficiently. Our team is more than tech-savvy enough to build mobile software to boost your existing business KPIs and/or establish a new custom app successfully.Make use of our mobile app development services to create a memorable application that will stand out among competitive products easily. We create native apps of any complexity and certainly enjoy focusing on businesses that bring real value and useful solutions to the end-user.</p>
     </section>
   <!--========== Start OUR SERVICES ==========-->

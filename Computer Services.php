@@ -19,6 +19,16 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Computer Services</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220504577-1');
+</script>
     </head>
     <body>
           
@@ -58,9 +68,8 @@
       <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> | Computer Services |
-                           </h2>
-                  </h2> 
+            <h2 class="section-title-center">Computer Services</h2>
+
             <p class="share__description"> Computer services include hardware, 
             software and data processing services. We offer hardware and software consultancy and 
             implementation services; maintenance and repair of computers and peripheral equipment; 

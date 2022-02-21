@@ -19,6 +19,16 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Mobiles iWAD Store</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220504577-1');
+</script>
     </head>
     <body>
   
@@ -184,7 +194,7 @@
         Water and dust resistant (2 meters for up to 30 minutes, IP68)
         Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode,
         Portrait mode, and 4K video up to 60fps
-         </p>
+               </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
           <button type = "button" class = "btn">Purchase</button>
@@ -317,7 +327,7 @@
         </div>
         <p class = "text">
         Apple iPhone 8 · Released 2017, September 22 · 148g,
-        7.3mm thickness · iOS 11, up to iOS 15.3 · 64GB/128GB/256GB storage
+         7.3mm thickness · iOS 11, up to iOS 15.3 · 64GB/128GB/256GB storage
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>

@@ -27,7 +27,16 @@
    <!-- Owl carousel -->
    <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
    <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
-        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220504577-1');
+</script>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -65,9 +74,9 @@
     <div class="share__container bd-grid">
         <div class="share__data">
             <h2 class="section-title-center"> Contact Us | What Ever it Maybe we are here | </h2>
-            <p class="share__description"><H4>|Submit a Request</H4> Send a request directly to us! Typical response time: within 1 business day <H4>|Schedule a meeting</H4>Set up a meeting with us:
+            <p class="share__description"><H4>Submit a Request</H4> Send a request directly to us! Typical response time: within 1 business day <H4>|Schedule a meeting</H4>Set up a meeting with us:
 
-              Earliest time & date <h4> |Live chat </h4>  Live chat is not available in your region yet.
+              Earliest time & date <h4>Live chat </h4>  Live chat is not available in your region yet.
 
               You can contact us via email or by calling one of the numbers below.</p>
           
