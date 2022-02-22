@@ -14,11 +14,25 @@
 
         <!--========== BOX ICONS ==========-->
         <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-
+        
+        <!-- Custom CSS -->
+        <link rel = "stylesheet" href="assets/css/main.css">
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Satellite Dish</title>
+        <style>
+        table {
+            border-collapse: collapse;
+            text-align: right;
+            
+         }
+        th,
+        td {
+            border: 1px solid #cecfd5;
+             padding: 10px 15px;
+            }
+        </style>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-220504577-1">
         </script>
@@ -62,7 +76,8 @@
                 </div>
             </nav>
         </header>
-          
+        <body>
+
 
   
       <section class="share section bd-container" id="share">
@@ -79,6 +94,84 @@
             <p class="share__description"></p>
     </section>
 
+    <h2 class="section-title">Prices For Satellite Services</h2>
+    <br>
+    <table style="margin-left:auto;margin-right:auto;">
+        <tr>
+            <th >New Installation  </th>
+            <th>Refocusing</th>
+            <th>Satellite Dish Kit For Sale</th>
+            <th>Decoders</th>
+            <th>Change Per Kilomiter</th>
+        </tr>
+        <tr>
+            <td>$30.00</td>
+            <td>$20.00</td>
+            <td>$25.00</td>
+            <td>$45.00 - $80.00</td>
+            <td>$0.5 per km</td>
+        </tr>
+    </table>    
+    <br>
+    <br>
+
+    <p style="text-align: center;">* Note that charge per kilometer comes if the distance exceed 15km 1 way trip from CBD </p>
+
+    <!-- contact section -->
+   <section class = "contact py-4" id = "contact">
+    <div class = "container">
+      <div class = "title">
+        <h2 class = "title-text">get in touch</h2>
+        <div class = "title-underline"></div>
+      </div>
+
+      <div class = "contact-wrapper">
+        <!-- contact info -->
+        <div class = "contact-info">
+          <!-- single item -->
+          <div class = "single-contact">
+            <span>
+              <i class = "fas fa-phone"></i>
+            </span>
+            <h2 class = "text-large">Phone</h2>
+            <p class = "text-light">+263719 051 445</p>
+          </div>
+          <!-- end of single item -->
+          <!-- single item -->
+          <div class = "single-contact">
+            <span>
+              <i class = "fas fa-envelope"></i>
+            </span>
+            <h2 class = "text-large">Email</h2>
+            <p class = "text-light">info@iwad.co.zw</p>
+          </div>
+          <!-- end of single item -->
+          <!-- single item -->
+          <div class = "single-contact">
+            <span>
+              <i class = "fas fa-map-marker-alt"></i>
+            </span>
+            <h2 class = "text-large">Location</h2>
+            <p class = "text-light">Harare</p>
+          </div>
+          <!-- end of single item -->
+        </div>
+
+        <form class = "form">
+          <div class = "form-group">
+            <input type = "text" class = "form-control" placeholder="Name">
+            <input type = "text" class = "form-control" placeholder="Email">
+          </div>
+          <input type = "text" class = "form-control" placeholder="Subject">
+          <textarea rows = "4" placeholder="Message"></textarea>
+          <button type = "button" class = "btn-form">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  <!-- end of contact section -->
+
+    
         <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">
