@@ -99,6 +99,7 @@
           <h4>featured product </h4>
           <h2>Used Hp pavilion coi5</h2>
           <p class = "item-price">$250.00</p>
+          <p class = "item-price"><m style="color: red;">Available<m/></p>
         </div>
         <p class = "text">
         Hp pavilion coi5
@@ -123,6 +124,7 @@
           <h4>featured product </h4>
           <h2>Hp 450 G4 coi5</h2>
           <p class = "item-price">$480.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         16GB Ram <br>
@@ -147,6 +149,7 @@
           <h4>featured product </h4>
           <h2>Acer Aspire One</h2>
           <p class = "item-price">$200.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Acer Aspire 11,6" display
@@ -173,6 +176,7 @@
           <h4>featured product </h4>
           <h2>Dell n5050 dualcore</h2>
           <p class = "item-price">$160.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Dell n5050 dualcore
@@ -197,6 +201,7 @@
           <h4>featured product </h4>
           <h2>Zed air coi3 6th gen</h2>
           <p class = "item-price">$230.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Zed air coi3 6th gen
@@ -226,6 +231,7 @@
           <h4>featured product </h4>
           <h2>Dell E6430 coi5 boxed</h2>
           <p class = "item-price">$450.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Dell E6430 coi5 boxed
@@ -250,6 +256,7 @@
           <h4>featured product </h4>
           <h2>Hp 255 g6 dualcore</h2>
           <p class = "item-price">$230.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Hp 255 g6 dualcore
@@ -275,6 +282,7 @@
           <h4>featured product </h4>
           <h2>Dell E6540 coi7 gaming</h2>
           <p class = "item-price">$480.00</p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Dell E6540 coi7 gaming
