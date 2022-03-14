@@ -99,7 +99,7 @@
           <h4>featured product </h4>
           <h2>Used Hp pavilion coi5</h2>
           <p class = "item-price">$250.00</p>
-          <p class = "item-price"><m style="color: red;">Available<m/></p>
+          <p class = "item-price"><m style="color: red;">Sold<m/></p>
         </div>
         <p class = "text">
         Hp pavilion coi5
@@ -124,7 +124,7 @@
           <h4>featured product </h4>
           <h2>Hp 450 G4 coi5</h2>
           <p class = "item-price">$480.00</p>
-          <p class = "item-price"><m style="color: red;">Sold<m/></p>
+          <p class = "item-price"><m style="color: red;">Available<m/></p>
         </div>
         <p class = "text">
         16GB Ram <br>
