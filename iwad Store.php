@@ -198,13 +198,16 @@
       <div class = "featured-item-content">
         <div class = "title">
           <h4>On Special </h4>
-          <h2>Apple Watch Series 6</h2>
-          <p class = "item-price">Price $670.00</p>
-          <p class = "item-price"><m style="color: red;">$650.00<m/></p>
+          <h2>HP ProBook 450 G4</h2>
+          <p class = "item-price">Price $480.00</p>
+          <p class = "item-price"><m style="color: red;">$450.00<m/></p>
         </div>
         <p class = "text">
-        Series 6
-        44mm
+        16GB Ram <br>
+        128 GB M2 SSD <br>
+        500 GB HDD <br>
+        Corei5 7th Gen <br>
+
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
