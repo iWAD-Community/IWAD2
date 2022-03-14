@@ -121,15 +121,14 @@
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Hp 450 g4 coi7 gaming</h2>
-          <p class = "item-price">$550.00</p>
+          <h2>Hp 450 G4 coi5</h2>
+          <p class = "item-price">$480.00</p>
         </div>
         <p class = "text">
-        7th generation
-        1 terabyte hdd
-        8gig ram ddr4
-        2gig dedicated nvidia GeForce graphics card
-        4hrs battery
+        16GB Ram <br>
+        128 GB M2 SSD <br>
+        500 GB HDD <br>
+        Corei5 7th Gen <br>
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
